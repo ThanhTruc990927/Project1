@@ -2,7 +2,6 @@ import pickle
 import streamlit as st
 
 import pandas as pd
-import wordcloud as wc
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
