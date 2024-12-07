@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -11,7 +10,6 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.svm import LinearSVC
 from sklearn.utils.class_weight import compute_class_weight
 from sklearn.feature_extraction.text import TfidfVectorizer
-from PIL import Image
 import base64
 
 st.set_page_config(
