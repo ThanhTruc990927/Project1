@@ -4,3 +4,6 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+wordcloud
+PIL
+base64
