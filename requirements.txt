@@ -4,5 +4,4 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-PIL
 base64
