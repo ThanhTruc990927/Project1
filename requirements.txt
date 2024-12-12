@@ -1,0 +1,11 @@
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+streamlit==1.40.2
+wordcloud==1.9.4
+seaborn==0.13.2
+underthesea==6.8.4
+regex==2024.9.11
+nltk==3.9.1
+base64
