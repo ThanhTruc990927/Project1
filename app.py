@@ -45,8 +45,6 @@ def set_png_as_page_bg(png_file):
      st.markdown(page_bg_img, unsafe_allow_html=True)
      return
 
-set_png_as_page_bg('background.jpg')
-
 with open('data/Danh_gia.csv', 'r') as file:
     data = pd.read_csv(file)
 data.fillna('trống', inplace=True)
